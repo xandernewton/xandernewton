@@ -11,7 +11,7 @@
   <br />
   <br />
   <p align="center">
-  Profile Loading
+  Profile Loading...
 </p>
 
   
