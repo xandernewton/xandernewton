@@ -1,5 +1,8 @@
 <!-- "Hero" Header -->
-
+p {
+ font-family: Arial;
+ font-size: 6px;
+}
 
 
 <div align="center">
@@ -39,6 +42,6 @@
 
 </div>
 
-<p><small>Template Source 
+<p><small> 
   <a href="https://github.com/BrunnerLivio/brunnerlivio">Source Template</a></small></p>
 
