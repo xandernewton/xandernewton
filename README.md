@@ -6,9 +6,13 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="100" alt="My Name is Livio and I like Programming"  src="https://media3.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" />
+  
+  <img height="100" alt=""  src="https://media3.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" />
   <br />
   <br />
+  <p align="center">
+  Profile Loading
+</p>
 
   
 
