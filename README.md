@@ -38,6 +38,6 @@
 
 </div>
 
-<p style="color:green">
-  <a href="https://github.com/BrunnerLivio/brunnerlivio">Source Template</a></p>
+<p>
+  <a style="color:green" href="https://github.com/BrunnerLivio/brunnerlivio">Source Template</a></p>
 
