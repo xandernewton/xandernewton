@@ -40,5 +40,5 @@
 </div>
 
 <p><small>Template Source 
-<a href="https://github.com/BrunnerLivio/brunnerlivio">Source Template<\href></small></p>
+  <a href="https://github.com/BrunnerLivio/brunnerlivio">Source Template</a></small></p>
 
